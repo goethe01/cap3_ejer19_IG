@@ -240,6 +240,7 @@ public class VentanaPrincipal extends javax.swing.JFrame {
         txtHorasTrabajadas.setText("");
         txtValorHora.setText("");
         txtPorcentaje.setText("");
+        txtSalida.setText("");
     }//GEN-LAST:event_btnBorrarActionPerformed
 
     private void btnSalirActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnSalirActionPerformed
